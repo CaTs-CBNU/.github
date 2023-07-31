@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div style="width: 100%; height: 120px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeout&section=footer&text=🚀&fontAlign=80" alt="header" style="width: 100%; height: 120px;">
+</div>
 <!--
 
 **Here are some ideas to get you started:**
