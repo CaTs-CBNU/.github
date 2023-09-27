@@ -5,7 +5,7 @@
 ---
 # CaTs
 
-### Overview
+### CaTs?
 Collaborating and Technology Studio.
 
 --- 
@@ -18,11 +18,21 @@ Collaborating and Technology Studio.
     4. 시스템 소프트웨어
     5. 웹 프로그래밍
 
-> #### 👩‍💻 Tech Stack
+> #### 👩‍💻 개발중..
+>     1. kakao ChatBot
+>       
+> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+>
+>     2. CaTs Official Site
+> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+>
+>     3. CaTs Android total management system
+> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 
 
 
-> #### 🙋‍♀️ Member
+> #### 🙋‍♀️ 멤버
+
 
 <!--
 
